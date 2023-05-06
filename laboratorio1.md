@@ -40,10 +40,28 @@ $ git config --global user.email johndoe@example.com
 
 <ol type="a">
 <li>¿Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30 .?</li>
+<h3>
+Máscara: 255.255.255.252<br>
+Direccion de red:192.168.10.8<br>
+Dirección de broadcast: 192.168.10.11
+</h3><br>
+
 <li>¿Que información se puede inferir de un host con la dirección 169.254.255.200/26?.</li>
+<h3> 
+-------------------
+</h3>
 <li>¿Cuantas sub-redes puede lograr con la mascara 172.16.0.0/22?.</li>
+<h3> 
+-----------------
+</h3>
 <li>¿Cuantos clientes puede tener la sub red 172.16.0.0/22?.</li>
+<h3> 
+----------------
+</h3>
 <li>¿Que clase y tipo de dirección es 10.10.10.0/24?.</li>
+<h3> 
+---------------
+</h3>
 </ol>
 
 ## 3. [Caracterización de los adaptadores](#) ✔
